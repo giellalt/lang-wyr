@@ -1,0 +1,10 @@
+template = ""
+rev_id = 204
+template_sha = "e2882c9d970daa8699f93d44a4d2440eae448af4"
+
+[replacements]
+__LICENSE__ = "GPLv3"
+__REPO__ = "lang-wyr"
+__UND2C__ = "wyr"
+__UNDEFINED__ = "Wayoró"
+__UND__ = "wyr"
