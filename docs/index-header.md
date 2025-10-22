@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-wyr)](https://github.com/giellalt/lang-wyr/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-wyr)](https://github.com/giellalt/lang-wyr/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-wyr?label=CI)](https://builds.giellalt.org/pipelines/lang-wyr/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/wayo1238)
 
 This page documents the work on the **Wayoró language model**. 
 
