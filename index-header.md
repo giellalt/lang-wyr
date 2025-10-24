@@ -4,7 +4,8 @@
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-wyr%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-wyr)](https://github.com/giellalt/lang-wyr/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-wyr)](https://github.com/giellalt/lang-wyr/issues)
-[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-wyr/main/badge.svg)](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-wyr/main/latest)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-wyr?label=CI)](https://builds.giellalt.org/pipelines/lang-wyr/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/wayo1238)
 
 This page documents the work on the **Wayoró language model**. 
 
